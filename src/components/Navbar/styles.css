@@ -44,3 +44,7 @@ header nav#navbar ul.nav-list li a:hover {
     font-size: 1.1rem;
     transition: color 0.3s;
 }
+
+nav div img {
+    width: 3rem;
+}
